@@ -1,6 +1,6 @@
 ---
 name: 기능 요청
-about: 새로운 기능을 제안할 때 사용하는 템플릿입니다.
+about: 새로운 기능을 개발하거나 추가할 때 사용하는 템플릿입니다.
 title: "[FEAT]: "
 labels: enhancement
 assignees: ''
